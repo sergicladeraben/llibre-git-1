@@ -1,2 +1,5 @@
 nom d'usuari: bernatfornescarbonell
 correu: bernardofornes@paucasesnovescifp.cat
+
+nom d'usuari: AngelLlompart
+correu: angelllompart@paucasesnovescifp.cat
