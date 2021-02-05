@@ -4,5 +4,5 @@ correu: bernardofornes@paucasesnovescifp.cat
 nom d'usuari: AngelLlompart
 correu: angelllompart@paucasesnovescifp.cat
 
-nom d'usuari: sergicladeraben
+nom d'usuari:sergicladeraben
 correu: sergicladera@paucasesnovescifp.cat
